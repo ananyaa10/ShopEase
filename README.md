@@ -1,2 +1,1 @@
-# ShopEase
-An e-commerce website
+# ecommerce-app-2024
